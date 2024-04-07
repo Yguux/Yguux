@@ -10,6 +10,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" width="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="65" width="65" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" width="65" />
+<img src="https://img.icons8.com/color/96/tailwind_css.png" alt="tailwind_css" width="65" height="65" />
+<img src="https://img.icons8.com/color/96/sass.png" alt="sass" width="65" height="65" />
 <div/>
   
 ## Aprendendo:
