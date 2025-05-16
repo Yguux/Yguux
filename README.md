@@ -16,6 +16,7 @@
   
 ## Aprendendo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" width="65" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi4_-9fNmkOc4nkBq6YLPG8higxuZsBuXGQ&s" height="65" width="65" />
 
 ## Contatos:
 <div>
